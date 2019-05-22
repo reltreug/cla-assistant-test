@@ -1,2 +1,2 @@
 # cla-assistant-test
-Test repo for cla-assistant
+The best test repo for cla-assistant
